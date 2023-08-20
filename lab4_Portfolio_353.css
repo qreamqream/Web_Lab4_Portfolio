@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(35, 207, 207);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.headercon{
+    color: rgb(112, 86, 151);
+    margin-top: 20px;
+    display: grid;
+    margin-left: 14.5vw;
+    width: 70%;
+    align-items: center;
+    border: 5px solid rgb(255, 64, 105);
+    border-radius: 20px;
+
+}
+
+
+.header{
+    width: 100%;
+    background-color: rgb(255, 197, 52);
+    padding: 20px;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 10px;
+}
+
+.header img{
+    width: 30%;
+    border-radius: 1000px;
+    border: 2px solid rgb(255, 64, 105);
+}
+
+
+
+.chartframecon{
+    display: grid;
+    margin: auto;
+    width: 70%;
+    border: 2px solid rgb(255, 64, 105);
+    border-radius: 20px; 
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+
+.chartframe{
+    width: 100%;
+}
+
+.chartframecon2{
+    display: grid;
+    margin: auto;
+    width: 70%;
+    border: 2px solid rgb(255, 64, 105);
+    border-radius: 20px; 
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+
+.chartframe2{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: rgba(212, 212, 212,0.8);
+}
